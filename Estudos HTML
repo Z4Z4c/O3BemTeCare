@@ -1,0 +1,52 @@
+    HTML
+
+<!--comentario-->
+<!--strong(negrito)-->
+<!--span(marcação)-->
+<!--<ul> (lista não ordenada)-->
+<!--<li> (conteudo da lista)-->
+<!--<ol> (lista ordenada)-->
+<!--<!DOCTYPE html>--tipo de documento-->
+<!-- <html lang="pt-br"> linguagem -->
+<!--crtl + ; (comenta a linha)-->
+<!--<head> tudo que esta aqui esta oculto-->
+<!-- <meta charset="UTF-8"> acentos -->
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> proporção da tela -->
+<!-- <title>Site Mae</title> nome do site -->
+<!-- <link rel="stylesheet" href="/estilos/Alura_style.css"> estilo do css -->
+<!-- <body> tudo que esta aqui é corpo da pagina -->
+<!-- <header> cabeçalho -->
+<!-- </main> meio da pagina -->
+<!-- class="" classificar  -->
+<!-- <h1>titulo -->
+<!-- <p> paragrafo -->
+<!-- <a href="">link ancora -->
+<!-- <footer>roda pe -->
+
+    <!-- /*Css:*/
+
+border(borda)
+content(conteudo)
+justify-content: ( alinhamento dos conteudos )
+space-between(da um espaçamento entre os conteudos )
+center(alinha tudo ao centro)
+flex-direction: (sentido da linha)
+column (coluna)
+column-reverse ( coluna invertida )
+row (linha)
+row-reverse (linha-invertida) 
+text-align(alinhar o texto com sua ritbox)
+crtl + ; (comenta a linha)
+crtl + F (pesquisar) 
+root:(variaveis em Css)
+body{ especifica a parte estilizada
+height: 100%; o body vai ocupar 100% da altura da tela 
+width: 100%; o body vai ocupar 100% da largura da tela
+box-sizing: border-box; conteudo não sai da tela
+background-color: var(--Cor-Fundo); cor de fundo
+color: var(--Cor-Secundaria); cor da letra
+flex-wrap: wrap; ajuste de itens para todo tipo de tela 
+margin: 0px 0px 0px 75px; (cima,direita,baixo,esquerda)
+width: 50%; muda a proporção dos elementos conforme o tamanho da tela 
+@media ajusta os elementos apartir de uma determinada propoço da tela--> 
+<!-- 1rem = 16px -->
